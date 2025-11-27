@@ -1,6 +1,7 @@
 <?php
 
-define('DB_HOST', 'localhost');
-define('DB_NAME', 'crudPOO');
-define('DB_USER', 'ifsc');
-define('DB_PASSWORD', 'ifsc');
+define('DB_HOST', 'mysql.railway.internal');
+define('DB_NAME', 'railway');
+define('DB_USER', 'root');
+
+define('DB_PASSWORD', 'cBTOJmTBIKHxTXvAvAxwOUouRPnYoYSq');
